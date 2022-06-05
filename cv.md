@@ -5,8 +5,12 @@
 ## Junior Frontend Developer
 *******************
 ## CONTACT INFORMATION
+
 **Phone** +375 33 3202861
+
 **Mail** kapalyhin92@gmail.com
+
 **Instagram** @kapalyhin
+
 **LinkedIn** @kapalyhin
 *******************
