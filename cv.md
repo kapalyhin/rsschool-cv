@@ -8,7 +8,7 @@
 * **Instagram:** [@kapalyhin](https://www.instagram.com/kapalyhin/)
 * **Discord:** @kapalyhin
 ## ABOUT ME
-
+During my career, I have changed many professions. Currently I work as an Internet marketer in a company selling medical equipment. Now I want to change my job again and become a front-end developer.
 ## EDUCATION
 * **Graduated from:** Gomes State Technical University, Bachelor of Electrical Engineering
 ## SKILLS
