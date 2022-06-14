@@ -1,0 +1,125 @@
+@font-face {
+    font-family: Roboto;
+    src: url(./assets/fonts/Roboto-Regular.ttf);
+    font-weight: 300;
+}
+* {
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+}
+header {
+    background-color: #9bbd41;
+}
+main {
+    background-color: #ffffff;
+}
+footer {
+    background-color: #f9f9f9;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.5;
+}
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+.nav-links {
+    padding: 0 10px;
+    line-height: 20px;
+    font-size: 16px;
+    text-decoration-line: none;
+    color: #ffffff;
+}
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.section {
+    float: inline-start;
+    width: 50%;
+    padding: 0;
+}
+.section-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #222222;
+    margin: 5px;
+  }
+#photo {
+    text-align: center;
+}
+#profile {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0;
+}
+  .content {
+    margin: auto;
+    padding: 0;
+  }
+  .logo {
+    width: 50%;
+    padding-left: 50px;
+  }
+  .footer-section {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 33%;
+    text-align: center;
+  }
+.logo-rsschool {
+    height: 50px;
+    width: auto;
+    padding: 5px;
+}
+.year {
+    font-size: 20px;
+    color: #000000;
+}
+.logo-github {
+    height: 50px;
+    width: auto;
+    padding: 0;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+p {
+    margin: 0;
+}
+li {
+    margin-left: 10px;
+}
+.link {
+    text-decoration-line: none;
+    color: #000;
+}
